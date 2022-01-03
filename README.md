@@ -10,6 +10,6 @@ O Controle das tarefas desse projeto será no GitHub
 
 :beetle: correção de bug 
 
-:beetle: correção de bug
+
 
 
